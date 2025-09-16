@@ -1,6 +1,6 @@
 # I'm Daniel Ramírez 👋 & Welcome to my profile!✨  
 
-Systems Engineering student passionate about **Operating Systems, concurrency, and performance**.  
+I'm curretnly pursuing my Bachelor's degree in Systems Engineering, I'm a student passionate about **Operating Systems, concurrency, and performance**.  
 I enjoy programming in C and exploring how memory, processes, and hardware interact with software at a low level.
 
 ---
