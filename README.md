@@ -15,25 +15,25 @@ I enjoy programming in C and exploring how memory, processes, and hardware inter
 
 ## 📚 Featured Repositories
 
-- **SistemasOperativos** — exercises, challenges, and a lab on matrix multiplication with performance measurement and a foundation for concurrency using pthreads.  
-- **Banking-Customer-Management-System** — project oriented towards systems, databases, and object-oriented design.  
-- Other work in C++, SQL, and modular programming.
+- **SistemasOperativos** — Coded in C, looking for performance measurement and a foundation for concurrency using pthreads.
+- **Property-Rental-System-DB** — SQL based project, including table normalization and good practices of design
+- **UsageOfSomeDataStructures** — Coded in C++, applying usage of linear data structures, trees and graphs
 
 ---
 
 ## 🚀 Skills
 
-- **Languages:** C, C++  
-- **Tools:** gcc, Makefile, memory management, performance measurement  
+- **Languages:** C, C++, Java, SQL and Python
+- **Tools:** gcc, Makefile, Memory management, Performance measurement  
 - **Interests:** concurrency, parallelism, optimization, systems close to hardware (sensors, processes, memory)
 
 ---
 
 ## 🌍 About Me
 
-- 📍 Based in Bogotá, Colombia  
-- 🎓 Studying Systems Engineering at Pontificia Universidad Javeriana  
-- 📈 Always learning and looking for new challenges to grow as a developer  
+- 📍 I'm in Bogotá, Colombia  
+- 🎓 Studying Systems Engineering at Pontificial Xaverian University 
+- 📈 Always learning and looking for new challenges to grow as an engineer
 
 ---
 
