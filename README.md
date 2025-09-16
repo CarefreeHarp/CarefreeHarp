@@ -1,4 +1,5 @@
-# Welcome to my profile! I'm Daniel Felipe Ramírez Vargas 👋
+# Welcome to my profile!✨
+# I'm Daniel Ramírez 👋
 
 Systems Engineering student passionate about **Operating Systems, concurrency, and performance**.  
 I enjoy programming in C and exploring how memory, processes, and hardware interact with software at a low level.
