@@ -7,7 +7,7 @@ I enjoy programming in C and exploring how memory, processes, and hardware inter
 
 ## 💻 What I Do
 
-- Develop C programs to deeply understand how memory allocation, processes, and threads work.  
+- Develop programs in C, C++, Python, SQL and Java.  
 - Build educational projects focused on performance measurement and modular implementation.  
 - I like to go beyond the "black box" — not just *what* works, but *how* and *why* it works.
 
