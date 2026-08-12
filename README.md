@@ -5,8 +5,13 @@ Systems Engineering student at Pontificia Universidad Javeriana. I am interested
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarefreeHarp&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=22D3EE&text_color=E6EDF3" alt="Daniel Ramírez's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarefreeHarp&layout=compact&langs_count=6&hide_title=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=E6EDF3" alt="Daniel Ramírez's most used languages" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarefreeHarp&amp;theme=github_dark" alt="GitHub statistics" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarefreeHarp&amp;theme=github_dark&amp;utcOffset=-5" alt="Most productive time" />
+</p>
+
+<p align="center">
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarefreeHarp&amp;theme=github_dark" alt="Top languages by repository" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarefreeHarp&amp;theme=github_dark" alt="Top languages by commit" />
 </p>
 
 <p align="center">
