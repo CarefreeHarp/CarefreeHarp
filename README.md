@@ -6,16 +6,10 @@ Systems Engineering student at Pontificia Universidad Javeriana. I am interested
 
 <p align="center">
   <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarefreeHarp&amp;theme=github_dark" alt="GitHub statistics" />
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CarefreeHarp&amp;theme=github_dark&amp;utcOffset=-5" alt="Most productive time" />
 </p>
 
 <p align="center">
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarefreeHarp&amp;theme=github_dark" alt="Top languages by repository" />
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarefreeHarp&amp;theme=github_dark" alt="Top languages by commit" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarefreeHarp&hide_border=true&background=0D1117&ring=C792EA&fire=22D3EE&currStreakLabel=E6EDF3&sideLabels=E6EDF3&dates=8B949E&stroke=30363D" alt="Daniel Ramírez's GitHub contribution streak" />
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarefreeHarp&amp;theme=github_dark" alt="Top Languages" />
 </p>
 
 ## Experience
