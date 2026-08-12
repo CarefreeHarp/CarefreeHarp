@@ -79,7 +79,7 @@ def render_card(totals: Counter) -> str:
   </style>
   <rect width="100%" height="100%" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <text x="54" y="54" class="title">Top Languages</text>
-  <text x="54" y="79" class="subtitle">Across public, non-forked repositories · updated automatically</text>
+  <text x="54" y="79" class="subtitle">Across public repositories</text>
   {chr(10).join(segments)}
   <circle cx="225" cy="254" r="77" fill="#0d1117"/>
   <text x="225" y="259" class="language" text-anchor="middle">{len(languages)} languages</text>
