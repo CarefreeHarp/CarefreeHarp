@@ -9,7 +9,7 @@ Systems Engineering student at Pontificia Universidad Javeriana. I am interested
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarefreeHarp&amp;theme=github_dark" alt="Top Languages" />
+  <img width="92%" src="https://raw.githubusercontent.com/CarefreeHarp/CarefreeHarp/main/assets/top-languages.svg" alt="Top Languages" />
 </p>
 
 ## Experience
