@@ -2,16 +2,6 @@
 
 Systems Engineering student at Pontificia Universidad Javeriana. I am interested in data analysis, automation, operating systems, and using generative AI to turn technical information into clear decisions.
 
-## GitHub Activity
-
-<p align="center">
-  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarefreeHarp&amp;theme=github_dark" alt="GitHub statistics" />
-</p>
-
-<p align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/CarefreeHarp/CarefreeHarp/main/assets/top-languages.svg" alt="Top Languages" />
-</p>
-
 ## Experience
 
 ### Academic Teaching Assistant — Pontificia Universidad Javeriana
@@ -31,6 +21,10 @@ Systems Engineering student at Pontificia Universidad Javeriana. I am interested
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Data, Analytics & Automation
 
@@ -45,12 +39,23 @@ Systems Engineering student at Pontificia Universidad Javeriana. I am interested
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Debugging](https://img.shields.io/badge/Debugging-6E40C9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## GitHub Activity
+
+<p align="center">
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarefreeHarp&amp;theme=github_dark" alt="GitHub statistics" />
+</p>
+
+<p align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/CarefreeHarp/CarefreeHarp/main/assets/top-languages.svg" alt="Top Languages" />
+</p>
+
 ## Knowledge
 
 - **Operating systems:** processes, memory, concurrency, parallelism, and performance analysis.
 - **Information systems and distributed-systems architectures.**
 - **Simulation, optimization, prototyping, and usage-pattern analysis.**
 - **Data visualization and communication of findings** with Python, Excel, and MATLAB.
+- **Web and mobile development:** JavaScript, HTML, CSS, and Kotlin.
 - **Generative AI and prompt engineering** for synthesizing, analyzing, designing, and presenting structured information.
 - **Communication and leadership:** technical instruction, feedback, and team coordination.
 - **Languages:** native Spanish and C1 English (IELTS, January 2026).
