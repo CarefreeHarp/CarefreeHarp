@@ -5,56 +5,57 @@
     .title { fill: #e6edf3; font: 700 28px -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; }
     .subtitle { fill: #8b949e; font: 16px -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; }
     .language { fill: #e6edf3; font: 600 17px -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; }
+    .percentage { fill: #c9d1d9; font: 600 15px -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif; text-anchor: end; }
   </style>
   <rect width="100%" height="100%" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <text x="54" y="54" class="title">Top Languages</text>
   <text x="54" y="79" class="subtitle">Across public, non-forked repositories · updated automatically</text>
   <text x="54" y="106" class="language">Jupyter Notebook</text>
-  <rect x="245" y="89" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="89" width="244" height="14" rx="7" fill="#22d3ee"/>
-
+  <rect x="245" y="89" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="89" width="218" height="14" rx="7" fill="#22d3ee"/>
+  <text x="846" y="104" class="percentage">39.9%</text>
 <text x="54" y="148" class="language">TypeScript</text>
-  <rect x="245" y="131" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="131" width="124" height="14" rx="7" fill="#c792ea"/>
-
+  <rect x="245" y="131" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="131" width="111" height="14" rx="7" fill="#c792ea"/>
+  <text x="846" y="146" class="percentage">20.4%</text>
 <text x="54" y="190" class="language">C</text>
-  <rect x="245" y="173" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="173" width="83" height="14" rx="7" fill="#60a5fa"/>
-
+  <rect x="245" y="173" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="173" width="74" height="14" rx="7" fill="#60a5fa"/>
+  <text x="846" y="188" class="percentage">13.5%</text>
 <text x="54" y="232" class="language">Java</text>
-  <rect x="245" y="215" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="215" width="43" height="14" rx="7" fill="#34d399"/>
-
+  <rect x="245" y="215" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="215" width="38" height="14" rx="7" fill="#34d399"/>
+  <text x="846" y="230" class="percentage">7.1%</text>
 <text x="54" y="274" class="language">Python</text>
-  <rect x="245" y="257" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="257" width="34" height="14" rx="7" fill="#fbbf24"/>
-
+  <rect x="245" y="257" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="257" width="31" height="14" rx="7" fill="#fbbf24"/>
+  <text x="846" y="272" class="percentage">5.6%</text>
 <text x="54" y="316" class="language">C++</text>
-  <rect x="245" y="299" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="299" width="26" height="14" rx="7" fill="#fb7185"/>
-
+  <rect x="245" y="299" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="299" width="23" height="14" rx="7" fill="#fb7185"/>
+  <text x="846" y="314" class="percentage">4.3%</text>
 <text x="54" y="358" class="language">HTML</text>
-  <rect x="245" y="341" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="341" width="12" height="14" rx="7" fill="#22d3ee"/>
-
+  <rect x="245" y="341" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="341" width="11" height="14" rx="7" fill="#22d3ee"/>
+  <text x="846" y="356" class="percentage">2.0%</text>
 <text x="54" y="400" class="language">Kotlin</text>
-  <rect x="245" y="383" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="383" width="11" height="14" rx="7" fill="#c792ea"/>
-
+  <rect x="245" y="383" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="383" width="10" height="14" rx="7" fill="#c792ea"/>
+  <text x="846" y="398" class="percentage">1.9%</text>
 <text x="54" y="442" class="language">SQL</text>
-  <rect x="245" y="425" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="425" width="9" height="14" rx="7" fill="#60a5fa"/>
-
+  <rect x="245" y="425" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="425" width="8" height="14" rx="7" fill="#60a5fa"/>
+  <text x="846" y="440" class="percentage">1.5%</text>
 <text x="54" y="484" class="language">JavaScript</text>
-  <rect x="245" y="467" width="610" height="14" rx="7" fill="#21262d"/>
-  <rect x="245" y="467" width="9" height="14" rx="7" fill="#34d399"/>
-
+  <rect x="245" y="467" width="545" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="467" width="8" height="14" rx="7" fill="#34d399"/>
+  <text x="846" y="482" class="percentage">1.5%</text>
 <text x="54" y="526" class="language">CSS</text>
-  <rect x="245" y="509" width="610" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="509" width="545" height="14" rx="7" fill="#21262d"/>
   <rect x="245" y="509" width="7" height="14" rx="7" fill="#fbbf24"/>
-
+  <text x="846" y="524" class="percentage">1.2%</text>
 <text x="54" y="568" class="language">Makefile</text>
-  <rect x="245" y="551" width="610" height="14" rx="7" fill="#21262d"/>
+  <rect x="245" y="551" width="545" height="14" rx="7" fill="#21262d"/>
   <rect x="245" y="551" width="5" height="14" rx="7" fill="#fb7185"/>
-
+  <text x="846" y="566" class="percentage">0.7%</text>
 </svg>
