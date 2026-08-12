@@ -82,8 +82,7 @@ def render_card(totals: Counter) -> str:
   <text x="54" y="79" class="subtitle">Across public, non-forked repositories · updated automatically</text>
   {chr(10).join(segments)}
   <circle cx="225" cy="254" r="77" fill="#0d1117"/>
-  <text x="225" y="250" class="language" text-anchor="middle">{len(languages)} languages</text>
-  <text x="225" y="273" class="subtitle" text-anchor="middle">public repositories</text>
+  <text x="225" y="259" class="language" text-anchor="middle">{len(languages)} languages</text>
   {chr(10).join(legend)}
 </svg>'''
 

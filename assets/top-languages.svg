@@ -23,8 +23,7 @@
 <path d="M 225 254 L 206.89 133.35 A 122 122 0 0 1 216.12 132.32 Z" fill="#fbbf24" stroke="#0d1117" stroke-width="3"/>
 <path d="M 225 254 L 216.12 132.32 A 122 122 0 0 1 221.42 132.05 Z" fill="#fb7185" stroke="#0d1117" stroke-width="3"/>
   <circle cx="225" cy="254" r="77" fill="#0d1117"/>
-  <text x="225" y="250" class="language" text-anchor="middle">12 languages</text>
-  <text x="225" y="273" class="subtitle" text-anchor="middle">public repositories</text>
+  <text x="225" y="259" class="language" text-anchor="middle">12 languages</text>
   <circle cx="425" cy="140" r="7" fill="#22d3ee"/>
   <text x="441" y="146" class="language">Jupyter Notebook</text>
   <text x="627" y="146" class="percentage">39.9%</text>
