@@ -10,54 +10,54 @@
   <rect width="100%" height="100%" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
   <text x="54" y="54" class="title">Top Languages</text>
   <text x="54" y="79" class="subtitle">Across public repositories</text>
-  <path d="M 225 254 L 225.00 132.00 A 122 122 0 0 1 297.11 352.41 Z" fill="#22d3ee" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 297.11 352.41 A 122 122 0 0 1 151.28 351.21 Z" fill="#c792ea" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 151.28 351.21 A 122 122 0 0 1 103.31 262.67 Z" fill="#60a5fa" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 103.31 262.67 A 122 122 0 0 1 111.36 209.63 Z" fill="#34d399" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 111.36 209.63 A 122 122 0 0 1 133.78 172.99 Z" fill="#fbbf24" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 133.78 172.99 A 122 122 0 0 1 158.49 151.73 Z" fill="#fb7185" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 158.49 151.73 A 122 122 0 0 1 171.87 144.18 Z" fill="#22d3ee" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 171.87 144.18 A 122 122 0 0 1 185.02 138.74 Z" fill="#c792ea" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 185.02 138.74 A 122 122 0 0 1 195.97 135.50 Z" fill="#60a5fa" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 195.97 135.50 A 122 122 0 0 1 206.89 133.35 Z" fill="#34d399" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 206.89 133.35 A 122 122 0 0 1 216.12 132.32 Z" fill="#fbbf24" stroke="#0d1117" stroke-width="3"/>
-<path d="M 225 254 L 216.12 132.32 A 122 122 0 0 1 221.42 132.05 Z" fill="#fb7185" stroke="#0d1117" stroke-width="3"/>
+  <path d="M 225 254 L 225.00 132.00 A 122 122 0 0 1 317.37 333.69 Z" fill="#22d3ee" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 317.37 333.69 A 122 122 0 0 1 188.18 370.31 Z" fill="#c792ea" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 188.18 370.31 A 122 122 0 0 1 117.37 311.44 Z" fill="#60a5fa" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 117.37 311.44 A 122 122 0 0 1 103.46 264.58 Z" fill="#34d399" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 103.46 264.58 A 122 122 0 0 1 106.40 225.41 Z" fill="#fbbf24" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 106.40 225.41 A 122 122 0 0 1 118.81 193.93 Z" fill="#fb7185" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 118.81 193.93 A 122 122 0 0 1 136.45 170.08 Z" fill="#22d3ee" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 136.45 170.08 A 122 122 0 0 1 158.41 151.77 Z" fill="#c792ea" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 158.41 151.77 A 122 122 0 0 1 181.92 139.86 Z" fill="#60a5fa" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 181.92 139.86 A 122 122 0 0 1 206.60 133.40 Z" fill="#34d399" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 206.60 133.40 A 122 122 0 0 1 216.92 132.27 Z" fill="#fbbf24" stroke="#0d1117" stroke-width="3"/>
+<path d="M 225 254 L 216.92 132.27 A 122 122 0 0 1 221.75 132.04 Z" fill="#fb7185" stroke="#0d1117" stroke-width="3"/>
   <circle cx="225" cy="254" r="77" fill="#0d1117"/>
   <text x="225" y="259" class="language" text-anchor="middle">12 languages</text>
   <circle cx="425" cy="140" r="7" fill="#22d3ee"/>
   <text x="441" y="146" class="language">Jupyter Notebook</text>
-  <text x="627" y="146" class="percentage">39.9%</text>
+  <text x="627" y="146" class="percentage">36.3%</text>
 <circle cx="425" cy="183" r="7" fill="#c792ea"/>
   <text x="441" y="189" class="language">TypeScript</text>
-  <text x="627" y="189" class="percentage">20.4%</text>
+  <text x="627" y="189" class="percentage">18.5%</text>
 <circle cx="425" cy="226" r="7" fill="#60a5fa"/>
   <text x="441" y="232" class="language">C</text>
-  <text x="627" y="232" class="percentage">13.5%</text>
+  <text x="627" y="232" class="percentage">12.3%</text>
 <circle cx="425" cy="269" r="7" fill="#34d399"/>
   <text x="441" y="275" class="language">Java</text>
-  <text x="627" y="275" class="percentage">7.1%</text>
+  <text x="627" y="275" class="percentage">6.4%</text>
 <circle cx="425" cy="312" r="7" fill="#fbbf24"/>
   <text x="441" y="318" class="language">Python</text>
-  <text x="627" y="318" class="percentage">5.6%</text>
+  <text x="627" y="318" class="percentage">5.1%</text>
 <circle cx="425" cy="355" r="7" fill="#fb7185"/>
-  <text x="441" y="361" class="language">C++</text>
-  <text x="627" y="361" class="percentage">4.3%</text>
+  <text x="441" y="361" class="language">JavaScript</text>
+  <text x="627" y="361" class="percentage">4.4%</text>
 <circle cx="655" cy="140" r="7" fill="#22d3ee"/>
-  <text x="671" y="146" class="language">HTML</text>
-  <text x="857" y="146" class="percentage">2.0%</text>
+  <text x="671" y="146" class="language">C++</text>
+  <text x="857" y="146" class="percentage">3.9%</text>
 <circle cx="655" cy="183" r="7" fill="#c792ea"/>
-  <text x="671" y="189" class="language">Kotlin</text>
-  <text x="857" y="189" class="percentage">1.9%</text>
+  <text x="671" y="189" class="language">CSS</text>
+  <text x="857" y="189" class="percentage">3.7%</text>
 <circle cx="655" cy="226" r="7" fill="#60a5fa"/>
-  <text x="671" y="232" class="language">SQL</text>
-  <text x="857" y="232" class="percentage">1.5%</text>
+  <text x="671" y="232" class="language">HTML</text>
+  <text x="857" y="232" class="percentage">3.4%</text>
 <circle cx="655" cy="269" r="7" fill="#34d399"/>
-  <text x="671" y="275" class="language">JavaScript</text>
-  <text x="857" y="275" class="percentage">1.5%</text>
+  <text x="671" y="275" class="language">Kotlin</text>
+  <text x="857" y="275" class="percentage">3.3%</text>
 <circle cx="655" cy="312" r="7" fill="#fbbf24"/>
-  <text x="671" y="318" class="language">CSS</text>
-  <text x="857" y="318" class="percentage">1.2%</text>
+  <text x="671" y="318" class="language">SQL</text>
+  <text x="857" y="318" class="percentage">1.4%</text>
 <circle cx="655" cy="355" r="7" fill="#fb7185"/>
   <text x="671" y="361" class="language">Makefile</text>
-  <text x="857" y="361" class="percentage">0.7%</text>
+  <text x="857" y="361" class="percentage">0.6%</text>
 </svg>
